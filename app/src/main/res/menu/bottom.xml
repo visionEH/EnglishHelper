@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/home"
+          android:title="首页"
+          android:icon="@drawable/home"
+        >
+    </item>
+    <item android:id="@+id/word"
+          android:title="单词库"
+          android:icon="@drawable/word"
+        >
+    </item>
+
+
+
+</menu>

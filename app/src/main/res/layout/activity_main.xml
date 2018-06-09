@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.visioneh.englishhelper.activity.MainActivity">
+
+    <FrameLayout
+        android:background="@color/fragmentColor"
+        android:id="@+id/fl"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        >
+    </FrameLayout>
+    //分割线
+    <!--<TextView
+        android:layout_width="match_parent"
+        android:background="@color/grey"
+        android:layout_height="0.2dp"/>-->
+    <android.support.design.widget.BottomNavigationView
+        android:id="@+id/nav_bottom"
+        app:menu="@menu/bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        >
+    </android.support.design.widget.BottomNavigationView>
+</LinearLayout>

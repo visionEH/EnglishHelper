@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4ca7f7</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#4ca7f7</color>
+    <color name="fragmentColor">#e9e9e9</color>
+    <color name="grey">#aeadad</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#101010</color>
+
+    <color name="font_white_one">#FFFFFF</color>
+
+    <color name="gray_normal">#666667</color>
+
+    <color name="blue">#0383EE</color>
+
+    <color name="foreground_full">#fff</color>
+    <color name="foreground_semi">#4fff</color>
+    <color name="foreground_today">#111</color>
+    <color name="background_today">#fff</color>
+
+    <color name="team1">#4ca7f7</color>
+    <color name="team2">#0a7ee4</color>
+    <color name="team3">#0c365b</color>
+    <color name="team4">#c94cf7</color>
+    <color name="team5">#f74c90</color>
+    <color name="team6">#4cf74f</color>
+    <color name="team7">#e9f74c</color>
+    <color name="team8">#f7664c</color>
+
+
+</resources>
